@@ -31,7 +31,7 @@ Later, the business partner posted the link on their company's social media page
 
 <img src="https://github.com/melaniedaniel7/Determine-appropriate-data-handling-practices/blob/3a40e5cc663e9b1c08573c2a94fc260feb006f9d/Screenshot%202024-10-22%20at%2014.43.13.png" width="600" />
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Determine-appropriate-data-handling-practices/blob/550cafb1ad1112bd60c439269c12c390583a70b6/Screenshot%202024-10-22%20at%2014.43.50.png" width="600" />
 
 ### Memo
 
