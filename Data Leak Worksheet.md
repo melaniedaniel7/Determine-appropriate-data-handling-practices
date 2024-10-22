@@ -35,4 +35,4 @@ Later, the business partner posted the link on their company's social media page
 
 ### Memo
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Determine-appropriate-data-handling-practices/blob/07f87ece84b65a64e7e205896616477644e76e2c/Screenshot%202024-10-22%20at%2014.42.54.png" width="600" />
